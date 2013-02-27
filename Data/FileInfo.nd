@@ -1,0 +1,18 @@
+1.51
+C/C++
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/oid.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/oid.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/sig.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/sig.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/tree_entry.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/tree_entry.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/tag.h	1361952677	1	GitTag
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/index.h	1361952677	1	GitIndex
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/revwalk.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/revwalk.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/reference.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/reference.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/repo.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/repo.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/odb_backend.h	1361952677	1	GitOdbBackend
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/utils.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/utils.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/odb.h	1361952677	1	GitOdb
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/commit.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/commit.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/blob.h	1361952677	1	GitBlob
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/error.h	1361952677	1	GitError
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/tree.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/tree.h
+/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/object.h	1361952677	0	/Users/faceleg/Work/Web/js-apprentice.com/Site/node_modules/nodegit/include/object.h
