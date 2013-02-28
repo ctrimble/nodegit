@@ -17,7 +17,7 @@ void GitError::Initialize (Handle<v8::Object> target) {
   HandleScope scope;
 
   Local<FunctionTemplate> t = FunctionTemplate::New(New);
-  
+
   constructor_template = Persistent<FunctionTemplate>::New(t);
   constructor_template->InstanceTemplate()->SetInternalFieldCount(1);
   constructor_template->SetClassName(String::NewSymbol("Error"));
@@ -28,7 +28,12 @@ void GitError::Initialize (Handle<v8::Object> target) {
 }
 
 const char* GitError::StrError(int err) {
-  return git_strerror(err);
+  const git_error *error = NULL;
+  error = giterr_last();
+  if (error == NULL) {
+    return "";
+  }
+  return error->message;
 }
 
 Handle<Value> GitError::New(const Arguments& args) {
