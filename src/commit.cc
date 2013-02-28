@@ -58,7 +58,7 @@ int GitCommit::Lookup(git_repository* repo, git_oid* oid) {
 }
 
 void GitCommit::Close() {
-  git_commit_close(this->commit);
+  git_commit_free(this->commit);
 }
 
 const git_oid* GitCommit::Id() {
